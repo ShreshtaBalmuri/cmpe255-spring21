@@ -118,7 +118,6 @@ def test() -> None:
     solution = Solution()
     solution.top_x(10)
     count = solution.count()
-    print(count)
     assert count == 4622
     solution.info()
     count = solution.num_column()
