@@ -19,3 +19,6 @@ Print out 5 cars' original msrp vs. predicted msrp
 | engine_cylinders	| transmission_type	| driven_wheels	| number_of_doors	| market_category	| vehicle_size |	vehicle_style |	highway_mpg	| city_mpg |	popularity | msrp | msrp_pred |
 |---------|-------|-------|---------|--------|-------|-------|------|-----|------|-----|---|
 |x | x| x | x | x | x | x |  x | x | x | x |
+
+
+Added a screenshot output.png 
