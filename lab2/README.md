@@ -21,4 +21,5 @@ Print out 5 cars' original msrp vs. predicted msrp
 |x | x| x | x | x | x | x |  x | x | x | x |
 
 
-Added a screenshot output.png 
+
+![output.png](https://github.com/ShreshtaBalmuri/cmpe255-spring21/blob/main/lab2/output.png)
